@@ -171,6 +171,7 @@
 
 ## Others 
 
+- [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
@@ -231,6 +232,9 @@
 
 ## Python 
 
+- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
 - [br3ndonland/fastenv](https://github.com/br3ndonland/fastenv) - ⚙️ Unified environment variable and settings management for FastAPI and beyond 🚀
@@ -568,6 +572,9 @@
 
 ## Rust 
 
+- [PyO3/pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes
+- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
