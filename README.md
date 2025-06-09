@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -34,6 +35,7 @@
 
 ## C 
 
+- [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [Denton-L/based-connect](https://github.com/Denton-L/based-connect) - A reverse-engineered Bose Connect imitation program for Linux.
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 
@@ -88,6 +90,7 @@
 
 ## JavaScript 
 
+- [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -105,6 +108,11 @@
 - [Kumirei/Userscripts](https://github.com/Kumirei/Userscripts) - My userscripts for various websites such as Wanikani, Discourse, and Bunpro
 - [yndajas/Nihongo-scripts](https://github.com/yndajas/Nihongo-scripts) - Scripts to extend Japanese language learning sites like WaniKani and Bunpro
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+## Jinja 
+
+- [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
+- [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
 
 ## Julia 
 
@@ -232,6 +240,11 @@
 
 ## Python 
 
+- [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
+- [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+- [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
@@ -572,6 +585,9 @@
 
 ## Rust 
 
+- [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust bindings of the NumPy C-API
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [PyO3/pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
