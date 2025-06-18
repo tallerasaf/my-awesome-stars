@@ -1040,7 +1040,7 @@
 - [CasualCodersProjects/manim-code-blocks](https://github.com/CasualCodersProjects/manim-code-blocks) - 
 - [ManimCommunity/manim_editor](https://github.com/ManimCommunity/manim_editor) - Web Presenter for Mathematical Animations using Manim.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
