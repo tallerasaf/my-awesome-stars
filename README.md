@@ -81,6 +81,7 @@
 
 ## HTML 
 
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [ai-evals-course/isaac-fasthtml-workshop](https://github.com/ai-evals-course/isaac-fasthtml-workshop) - 
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) - 🏅 Collection of Kaggle Solutions and Ideas 🏅
@@ -106,6 +107,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -198,6 +200,8 @@
 
 ## Others 
 
+- [GrimLink/warp-theme-snazzy](https://github.com/GrimLink/warp-theme-snazzy) - Warp Theme based on the snazzy theme
+- [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [warpdotdev/hiring-challenge](https://github.com/warpdotdev/hiring-challenge) - A challenge for candidates interested in applying to Warp.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -266,6 +270,8 @@
 
 ## Python 
 
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -621,6 +627,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -658,6 +665,7 @@
 
 ## Shell 
 
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [br3ndonland/dotfiles](https://github.com/br3ndonland/dotfiles) - Computer setup and settings. Apple Silicon ready.
@@ -691,6 +699,8 @@
 
 ## TypeScript 
 
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
