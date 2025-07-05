@@ -21,6 +21,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mustache](#mustache)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PowerShell](#powershell)
@@ -112,6 +113,7 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent.
 - [sindresorhus/hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors
@@ -207,6 +209,10 @@
 
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 
+## Mustache 
+
+- [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
 ## Objective-C 
 
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
@@ -215,6 +221,7 @@
 
 ## Others 
 
+- [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) - A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
 - [GrimLink/warp-theme-snazzy](https://github.com/GrimLink/warp-theme-snazzy) - Warp Theme based on the snazzy theme
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
@@ -290,6 +297,8 @@
 
 ## Python 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+- [xai-org/xai-sdk-python](https://github.com/xai-org/xai-sdk-python) - The official Python SDK for the xAI API
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
@@ -701,6 +710,7 @@
 
 ## Shell 
 
+- [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
