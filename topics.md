@@ -913,6 +913,8 @@
 
 ## llm 
 
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1139,6 +1141,8 @@
 
 ## others 
 
+- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
+- [bentoml/openllm-models](https://github.com/bentoml/openllm-models) - 
 - [Significant-Gravitas/AutoGPT-Code-Ability](https://github.com/Significant-Gravitas/AutoGPT-Code-Ability) - 🖥️ AutoGPT's Coding Ability - empowering everyone to build software using AI
 - [modelcontextprotocol-community/working-groups](https://github.com/modelcontextprotocol-community/working-groups) - MCP Community Working Group repository
 - [run-llama/notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM
