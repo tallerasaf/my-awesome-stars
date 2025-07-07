@@ -171,7 +171,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
 - [steipete/CodeLooper](https://github.com/steipete/CodeLooper) - It's all about the loop, baby.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [steipete/VibeMeter](https://github.com/steipete/VibeMeter) - A project to measure costs for Cursor and other AI provider.
@@ -444,7 +444,7 @@
 
 ## code 
 
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
@@ -1060,6 +1060,7 @@
 
 ## nextjs 
 
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
@@ -1099,6 +1100,7 @@
 
 ## open-source 
 
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
@@ -1143,6 +1145,7 @@
 
 ## others 
 
+- [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert c
 - [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
 - [mildbyte/poetry-sudoku-solver](https://github.com/mildbyte/poetry-sudoku-solver) - Sudoku solver that uses Poetry's dependency resolver
 - [mildbyte/uv-wordle-solver](https://github.com/mildbyte/uv-wordle-solver) - Solve Wordle using uv's dependency resolver!
@@ -1432,6 +1435,7 @@
 
 ## postgresql 
 
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
