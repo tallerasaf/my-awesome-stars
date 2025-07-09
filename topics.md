@@ -1176,6 +1176,9 @@
 
 ## others 
 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
+- [getsentry/pytest-responses](https://github.com/getsentry/pytest-responses) - py.test integration for responses
+- [get-convex/convex-py](https://github.com/get-convex/convex-py) - Python Client Library for Convex
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
