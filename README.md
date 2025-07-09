@@ -311,6 +311,9 @@
 
 ## Python 
 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
+- [getsentry/pytest-responses](https://github.com/getsentry/pytest-responses) - py.test integration for responses
+- [get-convex/convex-py](https://github.com/get-convex/convex-py) - Python Client Library for Convex
 - [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!)
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
