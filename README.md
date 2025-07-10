@@ -231,6 +231,7 @@
 
 ## Others 
 
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler) - A spaced repetition algorithm based on DSR model
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
@@ -317,6 +318,8 @@
 
 ## Python 
 
+- [pydantic/fasta2a](https://github.com/pydantic/fasta2a) - Convert an AI Agent into a A2A server! ✨
+- [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK for the Agent2Agent (A2A) Protocol
 - [terminaldotshop/terminal-sdk-python](https://github.com/terminaldotshop/terminal-sdk-python) - 
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 - [microsoft/cookiecutter-python-flask-clean-architecture](https://github.com/microsoft/cookiecutter-python-flask-clean-architecture) - Cookiecutter Python Flask template for jumpstarting production-ready projects quickly.
@@ -818,6 +821,8 @@
 
 ## TypeScript 
 
+- [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
