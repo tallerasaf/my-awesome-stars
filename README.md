@@ -317,6 +317,8 @@
 
 ## Python 
 
+- [terminaldotshop/terminal-sdk-python](https://github.com/terminaldotshop/terminal-sdk-python) - 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 - [microsoft/cookiecutter-python-flask-clean-architecture](https://github.com/microsoft/cookiecutter-python-flask-clean-architecture) - Cookiecutter Python Flask template for jumpstarting production-ready projects quickly.
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
