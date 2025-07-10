@@ -104,6 +104,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
@@ -259,6 +260,7 @@
 
 ## automation 
 
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
@@ -427,6 +429,7 @@
 
 ## chrome-extension 
 
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 
 ## cli 
@@ -715,6 +718,7 @@
 
 ## github 
 
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
@@ -1114,6 +1118,10 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [wkei/jlpt-vocab-api](https://github.com/wkei/jlpt-vocab-api) - Open API for JLPT Vocabulary from N5 to N1
 
+## npm 
+
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
+
 ## numpy 
 
 - [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust bindings of the NumPy C-API
@@ -1176,6 +1184,12 @@
 
 ## others 
 
+- [terminaldotshop/terminal-sdk-python](https://github.com/terminaldotshop/terminal-sdk-python) - 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
+- [microsoft/cookiecutter-python-flask-clean-architecture](https://github.com/microsoft/cookiecutter-python-flask-clean-architecture) - Cookiecutter Python Flask template for jumpstarting production-ready projects quickly.
+- [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [getsentry/pytest-responses](https://github.com/getsentry/pytest-responses) - py.test integration for responses
 - [get-convex/convex-py](https://github.com/get-convex/convex-py) - Python Client Library for Convex
@@ -1505,6 +1519,7 @@
 
 ## python 
 
+- [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!)
 - [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
