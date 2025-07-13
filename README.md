@@ -357,7 +357,7 @@
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [bentoml/openllm-models](https://github.com/bentoml/openllm-models) - 
 - [Significant-Gravitas/AutoGPT-Code-Ability](https://github.com/Significant-Gravitas/AutoGPT-Code-Ability) - 🖥️ AutoGPT's Coding Ability - empowering everyone to build software using AI
-- [Div99/agent-protocol](https://github.com/Div99/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
+- [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [run-llama/notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -780,6 +780,7 @@
 
 ## Shell 
 
+- [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
