@@ -120,7 +120,7 @@
 ## JavaScript 
 
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. No need to switch, just use Dia on Chrome or Arc.
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert c
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -277,7 +277,7 @@
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [avyfain/resources](https://github.com/avyfain/resources) - A collection of various awesome resources for future reference.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [rahuldkjain/awesome-frontendmasters](https://github.com/rahuldkjain/awesome-frontendmasters) - 📚 List of awesome frontendmasters course resources
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -323,6 +323,7 @@
 
 ## Python 
 
+- [marlenezw/LETSLEARNMCP-PYTHON](https://github.com/marlenezw/LETSLEARNMCP-PYTHON) - MCP Python Tutorial
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
 - [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) - A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective 
 - [philip-murray/reactive-manim](https://github.com/philip-murray/reactive-manim) - A component library for ManimCE, supporting component composition and automatic animation. Supports declarative syntax for writing components inspired by React.js.
