@@ -160,6 +160,9 @@
 
 ## Jupyter Notebook 
 
+- [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
+- [AnswerDotAI/cosette](https://github.com/AnswerDotAI/cosette) - Claudette's sister, a helper for OpenAI GPT
+- [AnswerDotAI/claudette](https://github.com/AnswerDotAI/claudette) - Claudette is Claude's friend
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
@@ -842,6 +845,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [amantus-ai/llm-codes](https://github.com/amantus-ai/llm-codes) - Transform developer documentation to clean Markdown
