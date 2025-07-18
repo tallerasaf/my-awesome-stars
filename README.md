@@ -160,6 +160,7 @@
 
 ## Jupyter Notebook 
 
+- [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
 - [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
 - [AnswerDotAI/cosette](https://github.com/AnswerDotAI/cosette) - Claudette's sister, a helper for OpenAI GPT
 - [AnswerDotAI/claudette](https://github.com/AnswerDotAI/claudette) - Claudette is Claude's friend
