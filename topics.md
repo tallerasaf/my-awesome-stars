@@ -658,6 +658,7 @@
 
 ## dotfiles 
 
+- [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [br3ndonland/dotfiles](https://github.com/br3ndonland/dotfiles) - Computer setup and settings. Apple Silicon ready.
@@ -1115,6 +1116,7 @@
 
 ## neovim 
 
+- [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -1188,6 +1190,7 @@
 
 ## openai 
 
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
@@ -1224,6 +1227,10 @@
 
 ## others 
 
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
+- [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - A Jupyter server based on FastAPI :rocket:
+- [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
 - [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
 - [AnswerDotAI/cosette](https://github.com/AnswerDotAI/cosette) - Claudette's sister, a helper for OpenAI GPT
 - [AnswerDotAI/claudette](https://github.com/AnswerDotAI/claudette) - Claudette is Claude's friend
@@ -1581,6 +1588,7 @@
 
 ## python 
 
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
@@ -2110,6 +2118,7 @@
 
 ## vim 
 
+- [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
