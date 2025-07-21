@@ -338,7 +338,7 @@
 - [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - A Jupyter server based on FastAPI :rocket:
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature
-- [marlenezw/LETSLEARNMCP-PYTHON](https://github.com/marlenezw/LETSLEARNMCP-PYTHON) - MCP Python Tutorial
+- [microsoft/lets-learn-mcp-python](https://github.com/microsoft/lets-learn-mcp-python) - MCP Python Tutorial
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
 - [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) - A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective 
 - [philip-murray/reactive-manim](https://github.com/philip-murray/reactive-manim) - A component library for ManimCE, supporting component composition and automatic animation. Supports declarative syntax for writing components inspired by React.js.
