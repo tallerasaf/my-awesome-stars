@@ -37,9 +37,11 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
+- [reStructuredText](#restructuredtext)
 
 ## C 
 
+- [fabianishere/pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [Denton-L/based-connect](https://github.com/Denton-L/based-connect) - A reverse-engineered Bose Connect imitation program for Linux.
@@ -67,6 +69,7 @@
 
 ## Go 
 
+- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -122,6 +125,7 @@
 
 ## JavaScript 
 
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
@@ -334,6 +338,18 @@
 
 ## Python 
 
+- [bosd/cookiecutter-uv-hypermodern-python](https://github.com/bosd/cookiecutter-uv-hypermodern-python) - Cookiecutter uv Hypermodern Python
+- [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
+- [pypa/pipfile](https://github.com/pypa/pipfile) - 
+- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
+- [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
@@ -807,6 +823,7 @@
 
 ## Shell 
 
+- [1Password/install-cli-action](https://github.com/1Password/install-cli-action) - Install 1Password CLI into your GitHub Actions jobs.
 - [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -854,6 +871,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
@@ -909,6 +927,10 @@
 ## Zig 
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
