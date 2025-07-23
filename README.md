@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -38,6 +39,10 @@
 - [Vim Script](#vim-script)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
+
+## Batchfile 
+
+- [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
@@ -125,6 +130,7 @@
 
 ## JavaScript 
 
+- [jupyter-widgets/widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - A cookiecutter template for creating a custom Jupyter widget project.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -158,6 +164,7 @@
 
 ## Jinja 
 
+- [superlinear-ai/substrate](https://github.com/superlinear-ai/substrate) - 🌱 Substrate is a modern Copier template for scaffolding Python packages and apps
 - [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X.
 - [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
 - [pawamoy/copier-uv](https://github.com/pawamoy/copier-uv) - Copier template for Python projects managed by uv.
@@ -168,6 +175,7 @@
 
 ## Jupyter Notebook 
 
+- [pydanny/fasthtml-dashboard-tutorial](https://github.com/pydanny/fasthtml-dashboard-tutorial) - 
 - [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
 - [AnswerDotAI/msglm](https://github.com/AnswerDotAI/msglm) - msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.
 - [AnswerDotAI/cosette](https://github.com/AnswerDotAI/cosette) - Claudette's sister, a helper for OpenAI GPT
@@ -247,6 +255,7 @@
 
 ## Others 
 
+- [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 - [badlogic/claude-commands](https://github.com/badlogic/claude-commands) - Global Claude Code commands and workflows
@@ -339,6 +348,21 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
+- [hackebrot/pytest-md](https://github.com/hackebrot/pytest-md) - Plugin for generating Markdown reports for pytest results 📝
+- [hackebrot/pytest-emoji](https://github.com/hackebrot/pytest-emoji) - A pytest plugin that adds emojis to your test result report 😍
+- [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
+- [kennethreitz/mcp-applemusic](https://github.com/kennethreitz/mcp-applemusic) - An experimental MCP server for controlling Apple Music.
+- [realpython/pytest-mypy](https://github.com/realpython/pytest-mypy) - Mypy static type checker plugin for Pytest
+- [feldroy/air](https://github.com/feldroy/air) - The new web framework that breathes fresh air into Python web development. Built with FastAPI, Starlette, and Pydantic.
+- [pydanny/fastapi-blog](https://github.com/pydanny/fastapi-blog) - A markdown-powered blog engine and light CMS for FastAPI.
+- [pydanny/fastapi-tags](https://github.com/pydanny/fastapi-tags) - Adds fastcore fast tags to FastAPI views.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+- [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [bosd/cookiecutter-uv-hypermodern-python](https://github.com/bosd/cookiecutter-uv-hypermodern-python) - Cookiecutter uv Hypermodern Python
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
