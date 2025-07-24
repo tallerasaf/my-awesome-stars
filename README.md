@@ -348,6 +348,9 @@
 
 ## Python 
 
+- [block/mcp-jupyter](https://github.com/block/mcp-jupyter) - 
+- [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed) - Modern benchmarking library for python with pytest integration.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
@@ -805,6 +808,7 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
 - [conikeec/mcp-probe](https://github.com/conikeec/mcp-probe) - A Model Context Protocol (MCP) client library and debugging toolkit in Rust. This foundation provides both a production-ready SDK for building MCP integrations and the core architecture for an interac
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
