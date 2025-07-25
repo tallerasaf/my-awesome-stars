@@ -348,6 +348,7 @@
 
 ## Python 
 
+- [Leezekun/MassGen](https://github.com/Leezekun/MassGen) - 
 - [block/mcp-jupyter](https://github.com/block/mcp-jupyter) - 
 - [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed) - Modern benchmarking library for python with pytest integration.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
