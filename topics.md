@@ -1264,6 +1264,7 @@
 
 ## others 
 
+- [Leezekun/MassGen](https://github.com/Leezekun/MassGen) - 
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [block/mcp-jupyter](https://github.com/block/mcp-jupyter) - 
 - [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed) - Modern benchmarking library for python with pytest integration.
