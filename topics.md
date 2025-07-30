@@ -1292,6 +1292,11 @@
 
 ## others 
 
+- [sst/opentui](https://github.com/sst/opentui) - 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [steipete/Matcha](https://github.com/steipete/Matcha) - Matcha – brew beautiful TUIs at Swift speed.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [python-developer-tooling-handbook/uvhow](https://github.com/python-developer-tooling-handbook/uvhow) - Detect how uv was installed and get upgrade instructions
 - [python-developer-tooling-handbook/demo-uv](https://github.com/python-developer-tooling-handbook/demo-uv) - Python Package repository example using uv
