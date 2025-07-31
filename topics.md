@@ -91,6 +91,7 @@
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [language](#language)
+- [languages](#languages)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -167,6 +168,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -220,6 +222,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [yuxwtf/DrawThis](https://github.com/yuxwtf/DrawThis) - 🎨 DrawThis, using Craiyon AI, formerly DALL-E mini, is an AI model that can draw images from any text prompt in python!
 
@@ -465,6 +468,7 @@
 
 ## cli 
 
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -594,6 +598,7 @@
 
 ## data-structures 
 
+- [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [shushrutsharma/Data-Structures-and-Algorithms-Python](https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python) - All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python) - This is my repository for Data Structures using Python
@@ -651,6 +656,7 @@
 
 ## developer-tools 
 
+- [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
@@ -798,11 +804,13 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -829,6 +837,7 @@
 
 ## hacktoberfest 
 
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -996,6 +1005,10 @@
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
 - [nedlir/languagepod101-scraper](https://github.com/nedlir/languagepod101-scraper) - Python scraper for Language Pods such as Japanesepod101.com :japanese_ogre: :japan: :sushi: Compatible with Japanese, Chinese, French, German, Italian, Korean, Portuguese, Russian, Spanish and many mo
 
+## languages 
+
+- [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
+
 ## latex 
 
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
@@ -1029,6 +1042,7 @@
 
 ## llm 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [Leezekun/MassGen](https://github.com/Leezekun/MassGen) - 🚀 MassGen: An Open-source Multi-Agent Scaling System Inspired by Grok Heavy and Gemini Deep Think. Join the discord channel: https://discord.com/invite/VVrT2rQaz5
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
@@ -1064,6 +1078,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) - A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese
 
 ## lua 
@@ -1277,6 +1292,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -1292,6 +1308,7 @@
 
 ## others 
 
+- [conikeec/sniff](https://github.com/conikeec/sniff) - Sniff: Misalignment detection in Vibe Coding loops
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
@@ -1423,7 +1440,6 @@
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
@@ -1540,7 +1556,6 @@
 - [Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [siddhantdubey/Senkovi](https://github.com/siddhantdubey/Senkovi) - Python script that fixes other Python programs with GPT-4.
 - [purfectliterature/PanoptoBookmarklet](https://github.com/purfectliterature/PanoptoBookmarklet) - A bookmarklet to download lecture videos from NUS' Panopto website.
 - [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר מלא בעברית על למידת מכונה ולמידה עמוקה
@@ -1631,7 +1646,6 @@
 - [kfdm/wanikani](https://github.com/kfdm/wanikani) - Tools for tracking progress with WaniKani - #wanikani
 - [ajite/hebikani](https://github.com/ajite/hebikani) - A CLI interface to do your review on WaniKani
 - [laurent-radoux/wanikani_notifier](https://github.com/laurent-radoux/wanikani_notifier) - 
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
@@ -1691,6 +1705,8 @@
 
 ## python 
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+- [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
@@ -1818,6 +1834,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2034,6 +2051,7 @@
 
 ## rust 
 
+- [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
@@ -2167,6 +2185,7 @@
 
 ## terminal 
 
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -2305,6 +2324,25 @@
 
 - [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python server-side rendering engine.
 - [luke-c/jmdict-simplified-python](https://github.com/luke-c/jmdict-simplified-python) - Simplified version of JMdict in JSON
+
+## zsh 
+
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
+- [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 
 
 ## License
