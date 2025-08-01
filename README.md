@@ -874,6 +874,8 @@
 
 ## Shell 
 
+- [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
+- [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [politician/dotfiles](https://github.com/politician/dotfiles) - My dotfiles, managed by chezmoi
 - [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
