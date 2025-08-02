@@ -233,6 +233,7 @@
 
 ## Lua 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles) - ⌨️ The never ending updates of my dotfiles config
@@ -398,7 +399,7 @@
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
-- [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - Next generation Jupyter server based on FastAPI :rocket:
+- [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - Modern Jupyter server based on FastAPI
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature
 - [microsoft/lets-learn-mcp-python](https://github.com/microsoft/lets-learn-mcp-python) - MCP Python Tutorial
