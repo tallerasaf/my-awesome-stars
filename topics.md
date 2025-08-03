@@ -1313,6 +1313,16 @@
 
 ## others 
 
+- [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
+- [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
+- [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
+- [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
+- [feldroy/air-convert](https://github.com/feldroy/air-convert) - Utility for converting HTML to Air Tags
+- [feldroy/air-cli](https://github.com/feldroy/air-cli) - 
+- [feldroy/air-markdown](https://github.com/feldroy/air-markdown) - 
+- [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
+- [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
+- [feldroy/airdocs](https://github.com/feldroy/airdocs) - 
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption) - List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
