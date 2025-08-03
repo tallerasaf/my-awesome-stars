@@ -106,6 +106,7 @@
 
 ## HTML 
 
+- [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
@@ -134,6 +135,7 @@
 
 ## JavaScript 
 
+- [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [jupyter-widgets/widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - A cookiecutter template for creating a custom Jupyter widget project.
@@ -359,6 +361,14 @@
 
 ## Python 
 
+- [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
+- [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
+- [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
+- [feldroy/air-convert](https://github.com/feldroy/air-convert) - Utility for converting HTML to Air Tags
+- [feldroy/air-cli](https://github.com/feldroy/air-cli) - 
+- [feldroy/air-markdown](https://github.com/feldroy/air-markdown) - 
+- [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
+- [feldroy/airdocs](https://github.com/feldroy/airdocs) - 
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
