@@ -1313,6 +1313,9 @@
 
 ## others 
 
+- [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
+- [pydantic/logfire-vscode](https://github.com/pydantic/logfire-vscode) - A Visual Studio Code extension for Pydantic Logfire
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
@@ -1722,6 +1725,7 @@
 
 ## python 
 
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
@@ -2029,6 +2033,7 @@
 
 ## react 
 
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
