@@ -361,6 +361,8 @@
 
 ## Python 
 
+- [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
@@ -836,6 +838,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [conikeec/sniff](https://github.com/conikeec/sniff) - Sniff: Misalignment detection in Vibe Coding loops
@@ -940,6 +943,7 @@
 
 ## TypeScript 
 
+- [pydantic/logfire-vscode](https://github.com/pydantic/logfire-vscode) - A Visual Studio Code extension for Pydantic Logfire
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
