@@ -361,6 +361,7 @@
 
 ## Python 
 
+- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
@@ -502,7 +503,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
 - [br3ndonland/fastenv](https://github.com/br3ndonland/fastenv) - ⚙️ Unified environment variable and settings management for FastAPI and beyond 🚀
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 - [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) - The official ElevenLabs MCP server
 - [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
 - [reactive-python/reactpy-jupyter](https://github.com/reactive-python/reactpy-jupyter) - It's React, but in Jupyter
