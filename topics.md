@@ -90,6 +90,7 @@
 - [jekyll](#jekyll)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
 - [latex](#latex)
@@ -172,6 +173,7 @@
 
 ## ai 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -270,7 +272,7 @@
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
@@ -388,6 +390,7 @@
 
 ## bash 
 
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -657,6 +660,8 @@
 
 ## developer-tools 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
@@ -806,13 +811,13 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -900,6 +905,7 @@
 
 ## haskell 
 
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 
 ## homebrew 
@@ -913,6 +919,7 @@
 
 ## html 
 
+- [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
@@ -998,6 +1005,10 @@
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [PythonFreeCourse/Notebooks](https://github.com/PythonFreeCourse/Notebooks) - Learn Python for free using open-source notebooks in Hebrew.
 
+## kubernetes 
+
+- [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+
 ## language 
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1045,7 +1056,8 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
 - [Leezekun/MassGen](https://github.com/Leezekun/MassGen) - 🚀 MassGen: An Open-source Multi-Agent Scaling System Inspired by Grok Heavy and Gemini Deep Think. Join the discord channel: https://discord.com/invite/VVrT2rQaz5
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
@@ -1275,6 +1287,7 @@
 
 ## openai 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -1313,6 +1326,14 @@
 
 ## others 
 
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [mshumer/gpt-oss-pro-mode](https://github.com/mshumer/gpt-oss-pro-mode) - 
+- [yuval9313/FastApi-RESTful](https://github.com/yuval9313/FastApi-RESTful) - Quicker way to develop FastApi
+- [tomchristie/cookiecutter-pypackage](https://github.com/tomchristie/cookiecutter-pypackage) - A cookiecutter template for creating PyPI packages.
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
+- [deepsense-ai/create-ragbits-app](https://github.com/deepsense-ai/create-ragbits-app) - Set up a modern LLM app by running one command
+- [shreyashankar/create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
+- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
 - [pydantic/logfire-vscode](https://github.com/pydantic/logfire-vscode) - A Visual Studio Code extension for Pydantic Logfire
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1725,6 +1746,8 @@
 
 ## python 
 
+- [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
@@ -2073,6 +2096,7 @@
 
 ## rust 
 
+- [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
@@ -2119,10 +2143,12 @@
 
 ## self-hosted 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## shell 
 
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2266,7 +2292,7 @@
 
 ## text-to-speech 
 
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 
 ## typescript 
 
