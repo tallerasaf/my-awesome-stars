@@ -75,7 +75,8 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
+- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -107,6 +108,7 @@
 
 ## HTML 
 
+- [huggingface/yourbench](https://github.com/huggingface/yourbench) - 🤗 Benchmark Large Language Models Reliably On Your Data
 - [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -368,6 +370,9 @@
 
 ## Python 
 
+- [xpodev/seamless](https://github.com/xpodev/seamless) - A Python package for creating and manipulating HTML components. It works similar to React.js, but in Python.
+- [tomasr8/pyjsx](https://github.com/tomasr8/pyjsx) - Write JSX directly in Python
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [yuval9313/FastApi-RESTful](https://github.com/yuval9313/FastApi-RESTful) - Quicker way to develop FastApi
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
@@ -853,6 +858,7 @@
 
 ## Rust 
 
+- [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
