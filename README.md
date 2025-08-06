@@ -370,6 +370,8 @@
 
 ## Python 
 
+- [Textualize/textual-dev](https://github.com/Textualize/textual-dev) - Development tools for Textual
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [xpodev/seamless](https://github.com/xpodev/seamless) - A Python package for creating and manipulating HTML components. It works similar to React.js, but in Python.
 - [tomasr8/pyjsx](https://github.com/tomasr8/pyjsx) - Write JSX directly in Python
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
