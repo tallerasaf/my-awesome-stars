@@ -390,7 +390,7 @@
 - [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
 - [feldroy/air-convert](https://github.com/feldroy/air-convert) - Utility for converting HTML to Air Tags
 - [feldroy/air-cli](https://github.com/feldroy/air-cli) - 
-- [feldroy/air-markdown](https://github.com/feldroy/air-markdown) - 
+- [feldroy/AirMarkdown](https://github.com/feldroy/AirMarkdown) - 
 - [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
 - [feldroy/airdocs](https://github.com/feldroy/airdocs) - 
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -968,6 +968,7 @@
 
 ## TypeScript 
 
+- [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
 - [pydantic/logfire-vscode](https://github.com/pydantic/logfire-vscode) - A Visual Studio Code extension for Pydantic Logfire
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
