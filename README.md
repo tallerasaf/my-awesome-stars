@@ -191,7 +191,7 @@
 
 ## Jupyter Notebook 
 
-- [mshumer/gpt-oss-pro-mode](https://github.com/mshumer/gpt-oss-pro-mode) - 
+- [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [pydanny/fasthtml-dashboard-tutorial](https://github.com/pydanny/fasthtml-dashboard-tutorial) - 
 - [AbdullahAbuHassann/GenerativeAICourse](https://github.com/AbdullahAbuHassann/GenerativeAICourse) - 
