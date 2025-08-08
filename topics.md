@@ -1337,7 +1337,7 @@
 - [huggingface/yourbench](https://github.com/huggingface/yourbench) - 🤗 Benchmark Large Language Models Reliably On Your Data
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [mshumer/gpt-oss-pro-mode](https://github.com/mshumer/gpt-oss-pro-mode) - 
+- [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [yuval9313/FastApi-RESTful](https://github.com/yuval9313/FastApi-RESTful) - Quicker way to develop FastApi
 - [tomchristie/cookiecutter-pypackage](https://github.com/tomchristie/cookiecutter-pypackage) - A cookiecutter template for creating PyPI packages.
 - [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
