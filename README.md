@@ -382,8 +382,8 @@
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
-- [feldroy/air-convert](https://github.com/feldroy/air-convert) - Utility for converting HTML to Air Tags
-- [feldroy/air-cli](https://github.com/feldroy/air-cli) - 
+- [feldroy/AirConvert](https://github.com/feldroy/AirConvert) - Utility for converting HTML to Air Tags
+- [feldroy/AirCLI](https://github.com/feldroy/AirCLI) - 
 - [feldroy/AirMarkdown](https://github.com/feldroy/AirMarkdown) - 
 - [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
 - [feldroy/airdocs](https://github.com/feldroy/airdocs) - 
