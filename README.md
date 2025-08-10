@@ -364,6 +364,8 @@
 
 ## Python 
 
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
+- [deepankarm/pyleak](https://github.com/deepankarm/pyleak) - Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by goleak.
 - [samuelcolvin/check-python-version](https://github.com/samuelcolvin/check-python-version) - Check the release tag matches the library version before deploy.
 - [pre-commit/sync-pre-commit-deps](https://github.com/pre-commit/sync-pre-commit-deps) - Sync pre-commit hook dependencies based on other installed hooks
 - [Textualize/textual-dev](https://github.com/Textualize/textual-dev) - Development tools for Textual
