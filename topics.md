@@ -1331,6 +1331,7 @@
 
 ## others 
 
+- [pre-commit/sync-pre-commit-deps](https://github.com/pre-commit/sync-pre-commit-deps) - Sync pre-commit hook dependencies based on other installed hooks
 - [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
 - [Textualize/textual-dev](https://github.com/Textualize/textual-dev) - Development tools for Textual
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
@@ -1351,8 +1352,8 @@
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
 - [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
-- [feldroy/air-convert](https://github.com/feldroy/air-convert) - Utility for converting HTML to Air Tags
-- [feldroy/air-cli](https://github.com/feldroy/air-cli) - 
+- [feldroy/AirConvert](https://github.com/feldroy/AirConvert) - Utility for converting HTML to Air Tags
+- [feldroy/AirCLI](https://github.com/feldroy/AirCLI) - 
 - [feldroy/AirMarkdown](https://github.com/feldroy/AirMarkdown) - 
 - [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
 - [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
@@ -1756,6 +1757,7 @@
 
 ## python 
 
+- [samuelcolvin/check-python-version](https://github.com/samuelcolvin/check-python-version) - Check the release tag matches the library version before deploy.
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [xpodev/seamless](https://github.com/xpodev/seamless) - A Python package for creating and manipulating HTML components. It works similar to React.js, but in Python.
 - [tomasr8/pyjsx](https://github.com/tomasr8/pyjsx) - Write JSX directly in Python
