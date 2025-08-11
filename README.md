@@ -46,6 +46,7 @@
 
 ## C 
 
+- [adamritter/fasttag](https://github.com/adamritter/fasttag) - Library for extremely fast HTML generation from Python
 - [fabianishere/pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
@@ -54,6 +55,7 @@
 
 ## C++ 
 
+- [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Bibeknam/algorithmtutorprograms](https://github.com/Bibeknam/algorithmtutorprograms) - Program Codes for AlgorithmTutor.Com
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -100,6 +102,7 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 
@@ -140,6 +143,7 @@
 
 ## JavaScript 
 
+- [LeetCode-OpenSource/leetcode-cli](https://github.com/LeetCode-OpenSource/leetcode-cli) - A cli tool to enjoy leetcode!
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -364,6 +368,10 @@
 
 ## Python 
 
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
+- [AI-Agent-Hub/AI-Agent-Marketplace](https://github.com/AI-Agent-Hub/AI-Agent-Marketplace) - AI Agent Marketplace | AI Agent Directory | AI Agent Index Repo for Public Available AI Agents Community
+- [walkccc/dotfiles](https://github.com/walkccc/dotfiles) - Aim for minimalist dotfiles
+- [asottile/dict-unpacking-at-home](https://github.com/asottile/dict-unpacking-at-home) - can we have dict unpacking in python?
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [deepankarm/pyleak](https://github.com/deepankarm/pyleak) - Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by goleak.
 - [samuelcolvin/check-python-version](https://github.com/samuelcolvin/check-python-version) - Check the release tag matches the library version before deploy.
@@ -409,7 +417,7 @@
 - [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
 - [kennethreitz/mcp-applemusic](https://github.com/kennethreitz/mcp-applemusic) - An experimental MCP server for controlling Apple Music.
 - [realpython/pytest-mypy](https://github.com/realpython/pytest-mypy) - Mypy static type checker plugin for Pytest
-- [feldroy/air](https://github.com/feldroy/air) - The new web framework that breathes fresh air into Python web development. Built with FastAPI, Starlette, and Pydantic.
+- [feldroy/air](https://github.com/feldroy/air) - The new web framework that breathes fresh air into Python web development. Built with FastAPI, Starlette, Pydantic, and HTMX.
 - [pydanny/fastapi-blog](https://github.com/pydanny/fastapi-blog) - A markdown-powered blog engine and light CMS for FastAPI.
 - [pydanny/fastapi-tags](https://github.com/pydanny/fastapi-tags) - Adds fastcore fast tags to FastAPI views.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -913,6 +921,10 @@
 
 ## Shell 
 
+- [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
+- [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My personal dotfiles: zsh, git, neovim, alacritty, wezterm, zellij, etc.
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
+- [zhaohongxuan/dotfiles](https://github.com/zhaohongxuan/dotfiles) - My Personal dotfiles include zsh,nvim,tmux,wezterm Managed by chezmoi🤖
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
@@ -966,6 +978,7 @@
 
 ## TypeScript 
 
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
 - [pydantic/logfire-vscode](https://github.com/pydantic/logfire-vscode) - A Visual Studio Code extension for Pydantic Logfire
 - [sst/opentui](https://github.com/sst/opentui) - 
@@ -1000,7 +1013,6 @@
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
@@ -1026,6 +1038,8 @@
 
 ## Vim Script 
 
+- [mitsuhiko/dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
+- [treyhunner/dotfiles](https://github.com/treyhunner/dotfiles) - My dotfiles
 - [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) - My configuration files and personal collection of scripts.
 - [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
