@@ -834,6 +834,7 @@
 
 ## go 
 
+- [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed test
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1479,7 +1480,7 @@
 - [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) - A curated list of awesome FSRS implementations, papers and resources
 - [open-spaced-repetition/py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) - Python Package for FSRS Spaced Repetition
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
-- [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client
+- [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client - auth included!
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
