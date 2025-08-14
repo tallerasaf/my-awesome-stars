@@ -924,6 +924,7 @@
 
 ## SCSS 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Shell 
