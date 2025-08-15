@@ -109,7 +109,9 @@
 
 ## HTML 
 
+- [kennethreitz/pep8.org](https://github.com/kennethreitz/pep8.org) - PEP 8, for Humans.
 - [huggingface/yourbench](https://github.com/huggingface/yourbench) - 🤗 Benchmark Large Language Models Reliably On Your Data
+- [feldroy/AirConvert](https://github.com/feldroy/AirConvert) - Utility for converting HTML to Air Tags
 - [feldroy/air.feldroy.com](https://github.com/feldroy/air.feldroy.com) - Documentation for the Air static site generator created by @audreyfeldroy
 - [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -402,7 +404,6 @@
 - [nunombispo/PydanticAlternatives-Article](https://github.com/nunombispo/PydanticAlternatives-Article) - 
 - [yudame/pydantic-to-html](https://github.com/yudame/pydantic-to-html) - A Python library that automatically converts Pydantic models into structured HTML using safe and semantic defaults.
 - [feldroy/air-svgs](https://github.com/feldroy/air-svgs) - SVGs for the Air web framework project
-- [feldroy/AirConvert](https://github.com/feldroy/AirConvert) - Utility for converting HTML to Air Tags
 - [feldroy/AirCLI](https://github.com/feldroy/AirCLI) - 
 - [feldroy/AirMarkdown](https://github.com/feldroy/AirMarkdown) - 
 - [feldroy/air-by-example](https://github.com/feldroy/air-by-example) - The "Air by Example" book
@@ -988,6 +989,7 @@
 
 ## TypeScript 
 
+- [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
