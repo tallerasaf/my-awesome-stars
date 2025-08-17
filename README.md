@@ -281,6 +281,8 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [pawamoy/awesome-repository](https://github.com/pawamoy/awesome-repository) - A curated list of services, tools and standards about (open source) repository management.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
@@ -372,6 +374,9 @@
 
 ## Python 
 
+- [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
+- [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [abyesilyurt/vibesort](https://github.com/abyesilyurt/vibesort) - GPT powered sorting using structured output
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
@@ -992,6 +997,8 @@
 
 ## TypeScript 
 
+- [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [samuelcolvin/smokeshow](https://github.com/samuelcolvin/smokeshow) - create temporary websites
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
