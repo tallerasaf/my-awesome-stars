@@ -191,7 +191,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
@@ -215,7 +215,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2025 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
@@ -691,7 +691,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -803,7 +803,7 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -1352,7 +1352,7 @@
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [augustogoulart/awesome-pytest](https://github.com/augustogoulart/awesome-pytest) - A curated list of awesome pytest resources
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [PythonFreeCourse/Notebooks](https://github.com/PythonFreeCourse/Notebooks) - Learn Python for free using open-source notebooks in Hebrew.
 
@@ -1420,7 +1420,6 @@
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [yuval9313/FastApi-RESTful](https://github.com/yuval9313/FastApi-RESTful) - Quicker way to develop FastApi
-- [tomchristie/cookiecutter-pypackage](https://github.com/tomchristie/cookiecutter-pypackage) - A cookiecutter template for creating PyPI packages.
 - [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
 - [deepsense-ai/create-ragbits-app](https://github.com/deepsense-ai/create-ragbits-app) - Set up a modern LLM app by running one command
 - [shreyashankar/create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
@@ -1889,7 +1888,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
