@@ -1398,6 +1398,7 @@
 
 ## others 
 
+- [ComposioHQ/t3chat-composio](https://github.com/ComposioHQ/t3chat-composio) - 
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [bitprophet/dotfiles](https://github.com/bitprophet/dotfiles) - My dotfiles (zsh, vim, tmux, etc etc)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
