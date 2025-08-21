@@ -125,8 +125,6 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [saraqael-m/WKAIMnemonic](https://github.com/saraqael-m/WKAIMnemonic) - 
-- [tofugu/wanikani-api-v2-doc](https://github.com/tofugu/wanikani-api-v2-doc) - WaniKani API v2 documentation
-- [tofugu/wanikani-knowledge-guide](https://github.com/tofugu/wanikani-knowledge-guide) - :blue_book: The WaniKani Knowledge Guide
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
 - [wkei/jlpt-vocab-api](https://github.com/wkei/jlpt-vocab-api) - Open API for JLPT Vocabulary from N5 to N1
 - [atesoe/atesoe.github.io](https://github.com/atesoe/atesoe.github.io) - A list of useful resources for learning Japanese.
@@ -374,6 +372,9 @@
 
 ## Python 
 
+- [pyprojectx/pyprojectx](https://github.com/pyprojectx/pyprojectx) - All-Inclusive Python Projects
+- [jackedney/wanikani-mcp](https://github.com/jackedney/wanikani-mcp) - MCP Server for WaniKani
+- [math-man-123/auto-mnemonic-anki](https://github.com/math-man-123/auto-mnemonic-anki) - Have AI create effective mnemonics for your Anki cards.
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
@@ -383,7 +384,7 @@
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
 - [ninoseki/uv-dynamic-versioning](https://github.com/ninoseki/uv-dynamic-versioning) - Dynamic versioning based on VCS tags for uv/hatch project
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
 - [AI-Agent-Hub/AI-Agent-Marketplace](https://github.com/AI-Agent-Hub/AI-Agent-Marketplace) - AI Agent Marketplace | AI Agent Directory | AI Agent Index Repo for Public Available AI Agents Community
@@ -881,6 +882,7 @@
 
 ## Rust 
 
+- [zedless-editor/zed](https://github.com/zedless-editor/zed) - (WIP) Zed fork focused on privacy and being local-first
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
