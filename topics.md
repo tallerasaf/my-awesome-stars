@@ -1114,6 +1114,7 @@
 
 ## llm 
 
+- [toolprint/just-mcp](https://github.com/toolprint/just-mcp) - Share the same project justfile tasks with your AI Coding Agent.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -1402,7 +1403,7 @@
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
 - [jackedney/wanikani-mcp](https://github.com/jackedney/wanikani-mcp) - MCP Server for WaniKani
 - [math-man-123/auto-mnemonic-anki](https://github.com/math-man-123/auto-mnemonic-anki) - Have AI create effective mnemonics for your Anki cards.
-- [zedless-editor/zed](https://github.com/zedless-editor/zed) - (WIP) Zed fork focused on privacy and being local-first
+- [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
 - [ComposioHQ/t3chat-composio](https://github.com/ComposioHQ/t3chat-composio) - 
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [bitprophet/dotfiles](https://github.com/bitprophet/dotfiles) - My dotfiles (zsh, vim, tmux, etc etc)
