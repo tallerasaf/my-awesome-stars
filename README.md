@@ -75,6 +75,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed tester
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -144,6 +145,9 @@
 
 ## JavaScript 
 
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+- [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [LeetCode-OpenSource/leetcode-cli](https://github.com/LeetCode-OpenSource/leetcode-cli) - A cli tool to enjoy leetcode!
 - [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) - Do you understand f-strings?
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
@@ -373,6 +377,7 @@
 
 ## Python 
 
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [pyprojectx/pyprojectx](https://github.com/pyprojectx/pyprojectx) - All-Inclusive Python Projects
 - [jackedney/wanikani-mcp](https://github.com/jackedney/wanikani-mcp) - MCP Server for WaniKani
 - [math-man-123/auto-mnemonic-anki](https://github.com/math-man-123/auto-mnemonic-anki) - Have AI create effective mnemonics for your Anki cards.
@@ -883,6 +888,7 @@
 
 ## Rust 
 
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [toolprint/just-mcp](https://github.com/toolprint/just-mcp) - Share the same project justfile tasks with your AI Coding Agent.
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
 - [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
@@ -943,6 +949,7 @@
 
 ## Shell 
 
+- [tmatilai/direnv-1password](https://github.com/tmatilai/direnv-1password) - 1Password helpers for direnv
 - [casey/dotfiles](https://github.com/casey/dotfiles) - 📜 Dotfiles & Scripts
 - [abereghici/dotfiles](https://github.com/abereghici/dotfiles) - 💻 My personal dotfiles: zsh, git, neovim, alacritty, wezterm, zellij, etc.
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
