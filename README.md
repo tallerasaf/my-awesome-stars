@@ -378,6 +378,11 @@
 
 ## Python 
 
+- [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
+- [ninoseki/uv-sort](https://github.com/ninoseki/uv-sort) - Sort uv's dependencies alphabetically
+- [polm/unidic-py](https://github.com/polm/unidic-py) - Unidic packaged for installation via pip.
+- [polm/cutlet](https://github.com/polm/cutlet) - Japanese to romaji converter in Python
+- [joshdavham/jreadability](https://github.com/joshdavham/jreadability) - Text readability calculator for Japanese learners 🇯🇵
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [pyprojectx/pyprojectx](https://github.com/pyprojectx/pyprojectx) - All-Inclusive Python Projects
