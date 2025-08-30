@@ -1413,6 +1413,7 @@
 
 ## others 
 
+- [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) - 
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
 - [ninoseki/uv-sort](https://github.com/ninoseki/uv-sort) - Sort uv's dependencies alphabetically
 - [joshdavham/jreadability](https://github.com/joshdavham/jreadability) - Text readability calculator for Japanese learners 🇯🇵
