@@ -104,6 +104,7 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 
@@ -378,6 +379,7 @@
 
 ## Python 
 
+- [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) - 
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
 - [ninoseki/uv-sort](https://github.com/ninoseki/uv-sort) - Sort uv's dependencies alphabetically
 - [polm/unidic-py](https://github.com/polm/unidic-py) - Unidic packaged for installation via pip.
@@ -1056,7 +1058,6 @@
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
