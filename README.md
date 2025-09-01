@@ -379,6 +379,7 @@
 
 ## Python 
 
+- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [zauberzeug/nicegui-template](https://github.com/zauberzeug/nicegui-template) - A copier template for a basic NiceGUI project
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
