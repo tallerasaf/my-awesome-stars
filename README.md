@@ -285,6 +285,7 @@
 
 ## Others 
 
+- [facebook/pyrefly-pre-commit](https://github.com/facebook/pyrefly-pre-commit) - A pre-commit hook for Pyrefly.
 - [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) - Textual apps and libraries
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -380,6 +381,7 @@
 
 ## Python 
 
+- [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
 - [F4bbi/manim-dsa](https://github.com/F4bbi/manim-dsa) - A Manim plugin to animate common data structures and algorithms.
 - [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
@@ -565,8 +567,8 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+- [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
@@ -906,6 +908,7 @@
 
 ## Rust 
 
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [toolprint/just-mcp](https://github.com/toolprint/just-mcp) - Share the same project justfile tasks with your AI Coding Agent.
 - [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) - mcp server for just
