@@ -123,7 +123,6 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [yoninazarathy/MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [saraqael-m/WKAIMnemonic](https://github.com/saraqael-m/WKAIMnemonic) - 
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
@@ -243,6 +242,7 @@
 - [quocviethere/Coursera-Machine-Learning-Specialization](https://github.com/quocviethere/Coursera-Machine-Learning-Specialization) - 2022 Coursera Machine Learning Specialization Optional Labs and Programming Assignments
 - [huggingface/cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki](https://github.com/coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki) - Script to generate Japanese JLPT Anki deck used in https://ankiweb.net/shared/info/1550984460
