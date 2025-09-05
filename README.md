@@ -381,6 +381,8 @@
 
 ## Python 
 
+- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [pydantic/mcp-run-python](https://github.com/pydantic/mcp-run-python) - MCP server to run Python code in a sandbox.
 - [davidhalter/parso](https://github.com/davidhalter/parso) - A Python Parser
 - [F4bbi/manim-dsa](https://github.com/F4bbi/manim-dsa) - A Manim plugin to animate common data structures and algorithms.
@@ -1032,6 +1034,7 @@
 
 ## TypeScript 
 
+- [cameroncooke/mcpli](https://github.com/cameroncooke/mcpli) - 
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
 - [ComposioHQ/t3chat-composio](https://github.com/ComposioHQ/t3chat-composio) - 
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
