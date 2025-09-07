@@ -382,6 +382,7 @@
 
 ## Python 
 
+- [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [PsiACE/agent-client-protocol-python](https://github.com/PsiACE/agent-client-protocol-python) - A Python implement of Agent Client Protocol (ACP, https://agentclientprotocol.com, by Zed Industries)
 - [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
