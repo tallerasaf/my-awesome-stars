@@ -1451,6 +1451,7 @@
 
 ## others 
 
+- [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [open-spaced-repetition/swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) - Swift Package for FSRS
 - [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb) - dbt (http://getdbt.com) adapter for DuckDB (http://duckdb.org)
