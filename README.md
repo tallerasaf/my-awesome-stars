@@ -242,7 +242,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki](https://github.com/coolmule0/JLPT-N5-N1-Japanese-Vocabulary-Anki) - Script to generate Japanese JLPT Anki deck used in https://ankiweb.net/shared/info/1550984460
 - [PythonFreeCourse/Notebooks](https://github.com/PythonFreeCourse/Notebooks) - Learn Python for free using open-source notebooks in Hebrew.
 
@@ -935,7 +935,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [conikeec/sniff](https://github.com/conikeec/sniff) - Sniff: Misalignment detection in Vibe Coding loops
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [uutils/sed](https://github.com/uutils/sed) - Rewrite of sed in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1018,6 +1018,7 @@
 
 ## Swift 
 
+- [GetStream/awesome-liquid-glass](https://github.com/GetStream/awesome-liquid-glass) - Liquid Glass animated examples and use cases for inspiration
 - [Mobilecn-UI/swiftcn-ui](https://github.com/Mobilecn-UI/swiftcn-ui) - Beautiful and customizable SwiftUI components
 - [open-spaced-repetition/swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) - Swift Package for FSRS
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
