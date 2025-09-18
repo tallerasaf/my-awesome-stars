@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cython](#cython)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -72,6 +73,10 @@
 ## Cython 
 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
+## Dockerfile 
+
+- [carderne/una-example](https://github.com/carderne/una-example) - Example of an una monorepo
 
 ## Go 
 
@@ -381,6 +386,8 @@
 
 ## Python 
 
+- [DavidVujic/python-polylith-example-uv](https://github.com/DavidVujic/python-polylith-example-uv) - Example Polylith setup for Python and uv
+- [carderne/postmodern-mono](https://github.com/carderne/postmodern-mono) - Python monorepo template with uv
 - [ewels/rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with rich.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) - A fast and efficient type assistant for Python, including tensor shape inference
 - [aekasitt/fastapi-csrf-protect](https://github.com/aekasitt/fastapi-csrf-protect) - Stateless implementation of Cross-Site Request Forgery (XSRF) Protection by using Double Submit Cookie mitigation pattern
@@ -674,7 +681,7 @@
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [mutable-learning/manim-weighted-line](https://github.com/mutable-learning/manim-weighted-line) - Provides a line object that allows for weights to be displayed in Network Graphs
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [drageelr/manim-data-structures](https://github.com/drageelr/manim-data-structures) - A Manim plugin that contains common data structures to create Manimations.
