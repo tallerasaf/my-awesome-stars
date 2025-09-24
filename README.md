@@ -1064,6 +1064,7 @@
 
 ## TypeScript 
 
+- [pydantic/pydantic-ai-chat](https://github.com/pydantic/pydantic-ai-chat) - 
 - [cameroncooke/mcpli](https://github.com/cameroncooke/mcpli) - 
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
 - [ComposioHQ/t3chat-composio](https://github.com/ComposioHQ/t3chat-composio) - 
