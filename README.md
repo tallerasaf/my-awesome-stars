@@ -502,7 +502,7 @@
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
-- [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [simonw/symbex](https://github.com/simonw/symbex) - Find the Python code for specified symbols
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [jupyter-server/extension-cookiecutter](https://github.com/jupyter-server/extension-cookiecutter) - A Cookiecutter recipe for Jupyter Server extensions
