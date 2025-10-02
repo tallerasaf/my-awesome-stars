@@ -386,6 +386,9 @@
 
 ## Python 
 
+- [JakobGM/patito](https://github.com/JakobGM/patito) - A data modelling layer built on top of polars and pydantic
+- [caniko/pydantic-numpy](https://github.com/caniko/pydantic-numpy) - Package that integrates NumPy Arrays into Pydantic
+- [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [adriangb/asapi](https://github.com/adriangb/asapi) - An opinionated set of utilities / patterns for FastAPI
 - [DavidVujic/python-polylith-example-uv](https://github.com/DavidVujic/python-polylith-example-uv) - Example Polylith setup for Python and uv
