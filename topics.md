@@ -1501,6 +1501,7 @@
 
 ## others 
 
+- [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [openai/chatkit-python](https://github.com/openai/chatkit-python) - 
@@ -1515,7 +1516,7 @@
 - [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on fastapi
 - [sysid/sse-starlette](https://github.com/sysid/sse-starlette) - 
 - [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
-- [macieyng/dripdrop](https://github.com/macieyng/dripdrop) - Server support for Progressive JSON.
+- [nhtgl/dripdrop](https://github.com/nhtgl/dripdrop) - Server support for Progressive JSON.
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [open-spaced-repetition/swift-fsrs](https://github.com/open-spaced-repetition/swift-fsrs) - Swift Package for FSRS
@@ -1988,7 +1989,7 @@
 - [PsiACE/agent-client-protocol-python](https://github.com/PsiACE/agent-client-protocol-python) - A Python implement of Agent Client Protocol (ACP, https://agentclientprotocol.com, by Zed Industries)
 - [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [F4bbi/manim-dsa](https://github.com/F4bbi/manim-dsa) - A Manim plugin to animate common data structures and algorithms.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
