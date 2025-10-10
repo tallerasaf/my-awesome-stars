@@ -386,6 +386,12 @@
 
 ## Python 
 
+- [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
+- [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
+- [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
+- [BeanieODM/bunnet](https://github.com/BeanieODM/bunnet) - Synchronous Python ODM for MongoDB
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [openai/chatkit-python](https://github.com/openai/chatkit-python) - 
@@ -946,7 +952,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [open-spaced-repetition/fsrs-rs-python](https://github.com/open-spaced-repetition/fsrs-rs-python) - Python bindings for fsrs-rs, use burn-rs, instead of pytorch. 2GB -&gt; 6MB, save your disk!
-- [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [toolprint/just-mcp](https://github.com/toolprint/just-mcp) - Share the same project justfile tasks with your AI Coding Agent.
