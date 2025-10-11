@@ -190,6 +190,7 @@
 
 ## Jinja 
 
+- [zauberzeug/nicegui-template](https://github.com/zauberzeug/nicegui-template) - A copier template for a basic NiceGUI project
 - [deepsense-ai/create-ragbits-app](https://github.com/deepsense-ai/create-ragbits-app) - Set up a modern LLM app by running one command
 - [superlinear-ai/substrate](https://github.com/superlinear-ai/substrate) - 🌱 Substrate is a modern Copier template for scaffolding Python packages and apps
 - [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X.
@@ -421,7 +422,6 @@
 - [F4bbi/manim-dsa](https://github.com/F4bbi/manim-dsa) - A Manim plugin to animate common data structures and algorithms.
 - [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [zauberzeug/nicegui-template](https://github.com/zauberzeug/nicegui-template) - A copier template for a basic NiceGUI project
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
 - [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free python grammar checker 📝✅
@@ -782,7 +782,7 @@
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [erezsh/runtype](https://github.com/erezsh/runtype) - Utilities for run-time type validation and multiple dispatch
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django
