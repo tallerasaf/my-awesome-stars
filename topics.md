@@ -137,6 +137,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [qt](#qt)
 - [r](#r)
 - [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
@@ -971,6 +972,7 @@
 
 ## hacktoberfest 
 
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [open-spaced-repetition/fsrs-rs-python](https://github.com/open-spaced-repetition/fsrs-rs-python) - Python bindings for fsrs-rs, use burn-rs, instead of pytorch. 2GB -&gt; 6MB, save your disk!
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -1057,6 +1059,7 @@
 
 ## html 
 
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [askama-rs/template-benchmark](https://github.com/askama-rs/template-benchmark) - Comparison of template engines written in and for Rust.
@@ -1068,6 +1071,7 @@
 
 ## http 
 
+- [requests-cache/aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) - An async persistent cache for aiohttp requests
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -1112,6 +1116,7 @@
 
 ## javascript 
 
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
@@ -1201,6 +1206,7 @@
 
 ## linux 
 
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -1359,6 +1365,7 @@
 
 ## mongodb 
 
+- [requests-cache/aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) - An async persistent cache for aiohttp requests
 - [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [BeanieODM/bunnet](https://github.com/BeanieODM/bunnet) - Synchronous Python ODM for MongoDB
 - [art049/odmantic](https://github.com/art049/odmantic) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python type hints
@@ -1481,6 +1488,7 @@
 
 ## openai 
 
+- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
@@ -1524,10 +1532,11 @@
 
 ## others 
 
+- [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
+- [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
 - [caramelomartins/awesome-linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters.
 - [pydantic/pytest-examples](https://github.com/pydantic/pytest-examples) - Pytest plugin for testing examples in docstrings and markdown files.
 - [openai/codex-action](https://github.com/openai/codex-action) - 
-- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [openai/chatkit-python](https://github.com/openai/chatkit-python) - 
 - [JakobGM/patito](https://github.com/JakobGM/patito) - A data modelling layer built on top of polars and pydantic
 - [caniko/pydantic-numpy](https://github.com/caniko/pydantic-numpy) - Package that integrates NumPy Arrays into Pydantic
@@ -2000,12 +2009,16 @@
 
 ## python 
 
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
+- [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt) - Format Python TOML configurations.
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
 - [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [BeanieODM/bunnet](https://github.com/BeanieODM/bunnet) - Synchronous Python ODM for MongoDB
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [langstruct-ai/langstruct](https://github.com/langstruct-ai/langstruct) - Extract structured data from any content using LLMs.
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [carderne/una-example](https://github.com/carderne/una-example) - Example of an una monorepo
@@ -2348,6 +2361,10 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 
+## qt 
+
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+
 ## r 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -2400,6 +2417,7 @@
 
 ## rust 
 
+- [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
@@ -2515,6 +2533,7 @@
 
 ## sqlite 
 
+- [requests-cache/aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) - An async persistent cache for aiohttp requests
 - [nanotaboada/python-samples-fastapi-restful](https://github.com/nanotaboada/python-samples-fastapi-restful) - 🧪 Proof of Concept for a RESTful API made with Python 3 and FastAPI
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [karlicoss/cachew](https://github.com/karlicoss/cachew) - Transparent and persistent cache/serialization powered by type hints
@@ -2641,6 +2660,7 @@
 
 ## typescript 
 
+- [openai/openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
 - [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
 - [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
@@ -2732,6 +2752,7 @@
 
 ## windows 
 
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
