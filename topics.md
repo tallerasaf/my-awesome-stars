@@ -1538,6 +1538,7 @@
 
 ## others 
 
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
 - [beartype/ipython-beartype](https://github.com/beartype/ipython-beartype) - IPython extension type-checking IPython environments with @beartype
@@ -2017,6 +2018,7 @@
 
 ## python 
 
+- [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
 - [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt) - Format Python TOML configurations.
@@ -2608,6 +2610,7 @@
 
 ## terminal 
 
+- [ttygroup/textual-tty](https://github.com/ttygroup/textual-tty) - A pure python terminal for textual
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
