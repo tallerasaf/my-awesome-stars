@@ -500,7 +500,7 @@
 - [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed) - Modern benchmarking library for python with pytest integration.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+- [ag2ai/faststream](https://github.com/ag2ai/faststream) - FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
 - [hackebrot/pytest-md](https://github.com/hackebrot/pytest-md) - Plugin for generating Markdown reports for pytest results 📝
 - [hackebrot/pytest-emoji](https://github.com/hackebrot/pytest-emoji) - A pytest plugin that adds emojis to your test result report 😍
