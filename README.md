@@ -80,6 +80,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed tester
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
