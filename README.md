@@ -392,6 +392,10 @@
 
 ## Python 
 
+- [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
+- [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) - Extra Pydantic types.
+- [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
