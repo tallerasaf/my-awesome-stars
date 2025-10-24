@@ -392,6 +392,10 @@
 
 ## Python 
 
+- [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [jimwhite/agent-client-kernel](https://github.com/jimwhite/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) - A fast TOML library for python implemented in rust.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) - Extra Pydantic types.
