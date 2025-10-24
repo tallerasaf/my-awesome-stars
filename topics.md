@@ -1550,6 +1550,10 @@
 
 ## others 
 
+- [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [jimwhite/agent-client-kernel](https://github.com/jimwhite/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc) - Document parameters, class attributes, return types, and variables inline, with Annotated.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
