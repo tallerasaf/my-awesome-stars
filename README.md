@@ -161,6 +161,7 @@
 - [davila7/gemini-cli-templates](https://github.com/davila7/gemini-cli-templates) - Gemini CLI Local Dashboard
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [jupyter-widgets/widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - A cookiecutter template for creating a custom Jupyter widget project.
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -393,6 +394,7 @@
 
 ## Python 
 
+- [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [jimwhite/agent-client-kernel](https://github.com/jimwhite/agent-client-kernel) - A Zed Agent Client Protocol (ACP) Jupyter Kernel
@@ -1143,7 +1145,6 @@
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - [markacianfrani/mcp-pattern-language](https://github.com/markacianfrani/mcp-pattern-language) - 
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [mcp-use/mcp-use-cli](https://github.com/mcp-use/mcp-use-cli) - mcp-use powered CLI to connect to any MCP server with any LLM, from your terminal
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
