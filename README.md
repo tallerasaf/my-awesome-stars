@@ -515,7 +515,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [python-developer-tooling-handbook/uvhow](https://github.com/python-developer-tooling-handbook/uvhow) - Detect how uv was installed and get upgrade instructions
 - [python-developer-tooling-handbook/demo-uv](https://github.com/python-developer-tooling-handbook/demo-uv) - Python Package repository example using uv
-- [Leezekun/MassGen](https://github.com/Leezekun/MassGen) - 🚀 MassGen: An Open-Source Multi-Agent Scaling System for Collaborative AI with the Goal of Continuous Self-Improvement. Featuring parallel agent orchestration across frontier open and closed weight mo
+- [massgen/MassGen](https://github.com/massgen/MassGen) - 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Joi
 - [block/mcp-jupyter](https://github.com/block/mcp-jupyter) - 
 - [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed) - Modern benchmarking library for python with pytest integration.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
@@ -1117,7 +1117,7 @@
 
 ## TypeScript 
 
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec & reference implementation.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
