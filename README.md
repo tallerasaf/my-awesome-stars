@@ -293,6 +293,7 @@
 
 ## Others 
 
+- [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [caramelomartins/awesome-linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters.
@@ -416,7 +417,6 @@
 - [beartype/pytest-beartype](https://github.com/beartype/pytest-beartype) - Pytest plugin type-checking tests, fixtures, and/or your codebase with @beartype – the unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [muhammad-fiaz/logly](https://github.com/muhammad-fiaz/logly) - Logly is a Rust-powered, Loguru-like logging library for Python that combines the familiarity of Python’s standard logging API with high-performance logging capabilities.
 - [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - 
-- [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [requests-cache/aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) - An async persistent cache for aiohttp requests
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
@@ -975,6 +975,7 @@
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt) - Format Python TOML configurations.
+- [amyreese/ruff-api](https://github.com/amyreese/ruff-api) - Experimental Python API for Ruff
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
